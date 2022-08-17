@@ -44,6 +44,7 @@ Welcome to CitiusTech
 3x7=21
 3x8=24
 3x9=27
+<<<<<<< HEAD
 3x10=30
 
 3x1=3
@@ -55,4 +56,6 @@ Welcome to CitiusTech
 3x7=21
 3x8=24
 3x9=27
+=======
+>>>>>>> 8471d91f8aa74fe585087e3a69f8a1150d76da9a
 3x10=30
